@@ -1,0 +1,5 @@
+1. send a response that returns the contents of the html file
+2. get all the pets from the pets database, and send the pets array as a response to display them on the page
+3. make it so that you can get pets by getting the owner with a query string for the owner's name
+4. get pet by name with req.params
+
